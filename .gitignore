@@ -1,0 +1,4 @@
+results/*
+logs/*
+fine-tuned_model/*
+tokenizer/*
